@@ -1,1 +1,1 @@
-# django-react-chat-application
+# Chat application using Django and React, node js
